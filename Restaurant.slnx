@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Restaurant/Restaurant.csproj" />
+  <Project Path="Restaurant.Domain/Restaurant.Domain.csproj" />
+  <Project Path="Restaurant.ValueObjects/Restaurant.ValueObjects.csproj" />
+  <Project Path="Restaurant.Domain.Repositories.Abstractions/Restaurant.Domain.Repositories.Abstractions.csproj" />
+  <Project Path="Restaurant.Domain.Services/Restaurant.Domain.Services.csproj" />
+</Solution>
